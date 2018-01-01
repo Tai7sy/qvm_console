@@ -1,5 +1,5 @@
 # qvm_console
-腾讯云QVM管理控制台, A simple demo of QVM
+QCloud CVM管理控制台, A simple demo of QQ CVM
 
 # Install
 - 配置 SecretId, SecretKey
